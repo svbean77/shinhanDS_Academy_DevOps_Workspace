@@ -1,5 +1,5 @@
 ## shinhanDS_Academy_DevOps_Workspace
-
+test
 
 ### Jenkins 변경 확인하기
 - repository에 변경이 생기면 자동으로 업데이트!
