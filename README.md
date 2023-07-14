@@ -7,3 +7,5 @@
 ### Slack 변경 확인하기
 - pipeline 변경이 발생하면 slack에 메시지 전송
 <img width="200" alt="image" src="https://github.com/svbean77/shinhanDS_Academy_DevOps_Workspace/assets/70212701/76a9fa22-3ddd-455a-bb0e-1b365169bcf0">
+
+### Webhook 없이 변경 확인하기
